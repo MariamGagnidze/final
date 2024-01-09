@@ -1,0 +1,166 @@
+@media (width>=768px){
+
+    .menu ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        color: #333136;
+        margin-left: 204px;
+      }
+      .icon1{
+        display: none;
+      }
+      .fa-bars {
+        display: none;
+      }
+      .header {
+        display: flex;
+        gap: 20px;
+    
+        padding-bottom: 2%;
+      }
+      .text-overlay {
+        margin-top: -10%;
+      }
+
+      
+    a{
+      color: #333136;
+    }
+
+.box-box{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.box3{
+    background-image: none;
+    background-color: white;
+    height: 110vh;
+}
+.box2 map{
+  margin-bottom: 70vh;
+}
+
+
+.box2 {
+  height: 110vh;
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  margin-bottom: -33vh;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.box2 h2 {
+  width: 80%;
+  color: #fff;
+  text-align: center;
+  font-family: Jost;
+  font-size: 70px;
+  padding-top: 15%;
+  font-weight: 500;
+  line-height: 70px;
+}
+.box2 p {
+  color: #fff;
+  text-align: center;
+  font-family: Jost;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 5%;
+  height: 50vh;
+}
+
+.footer-menu {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding-left: 10%;
+}
+
+hr {
+  display: none;
+}
+
+.footer-menu h5 {
+  margin: 0;
+  padding-left: 10%;
+}
+
+.footer-box {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 20%;
+  padding-top: 20%;
+}
+
+.footer-footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.footer2 {
+ padding: 0;
+}
+
+
+.footer1 {
+padding: 0;
+
+}
+
+
+.footer-icons {
+  color: rgba(231, 129, 107, 1);
+  text-align: end;
+  gap: 30px;
+  font-size: 25px;
+}
+
+.footer1 h5{
+  text-align: left;
+}
+.footer2 h5{
+  text-align: left;
+}
+
+
+.tblt{
+  display: block;
+  margin-top: -30px;
+  margin-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 1024px){
+  .box1{
+ display: flex;
+ align-items: center;
+ flex-direction: row;
+ justify-content: space-around;
+   }
+ }

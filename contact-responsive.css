@@ -1,0 +1,124 @@
+@media (width>=768px){
+
+    .menu ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        color: #333136;
+        margin-left: 204px;
+      }
+      .fa-bars {
+        display: none;
+      }
+      .header {
+        display: flex;
+        gap: 20px;
+    
+        padding-bottom: 2%;
+      }
+      .text-overlay {
+        margin-top: -10%;
+      }
+      .icon1{
+        display: none;
+      }
+      
+    a{
+      color: #333136;
+    }
+.menu{
+   padding-top: -20%;
+}
+
+.box-box{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.box1{
+    border-radius: 15px;
+    background-image: url(./images/Oval\ \(3\).png);
+}
+
+.buttton{
+    margin-left: 75%;
+}
+
+.footer-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5%;
+    height: 50vh;
+  }
+  
+  .footer-menu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 10%;
+  }
+  
+  hr {
+    display: none;
+  }
+  
+  .footer-menu h5 {
+    margin: 0;
+    padding-left: 10%;
+  }
+  
+  .footer-box {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 20%;
+    padding-top: 20%;
+  }
+  
+  .footer-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  
+  .footer2 {
+   padding: 0;
+  }
+  
+  
+  .footer1 {
+  padding: 0;
+  
+  }
+  
+  
+  .footer-icons {
+    color: rgba(231, 129, 107, 1);
+    text-align: end;
+    gap: 30px;
+    font-size: 25px;
+  }
+  
+  .footer1 h5{
+    text-align: left;
+  }
+  .footer2 h5{
+    text-align: left;
+  }
+  
+  
+  .tblt{
+    display: block;
+    margin-top: -30px;
+    margin-bottom: 60px;
+  }
+
+
+
+
+
+
+
+}
